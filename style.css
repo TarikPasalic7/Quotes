@@ -1,0 +1,70 @@
+body {
+    background-image: url("typewriter-801921_1920.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Lobster;
+    color: black;
+}
+.senca{
+  width:40%;
+  
+  background-color:white;
+   margin:8% auto auto auto;
+   
+  border:3px solid black;
+   border-radius:10px 10px;
+display:table;
+  height:auto;
+}
+h1{
+   margin:4%;
+  margin-right:auto;
+  margin-left:auto;
+ 
+  text-align:center;
+  
+  
+}
+.quote{
+
+  
+
+  margin-top:10%;
+  margin-right:auto;
+  margin-left:auto;
+font-size:large;
+  
+  
+  
+}
+.author{
+  
+ 
+
+  float:right;
+font-size:large;
+  
+}
+.d{
+  width:100%;
+  height:180px;
+ 
+   
+   display:table;
+}
+.btn{ 
+  background-color:aquamarine;
+  cursor:pointer;
+margin:8px 8px 8px;
+  
+  
+}
+a{
+  float:right;
+  
+}
+.btn:hover{
+  opacity:0.5;
+  
+}
